@@ -50,34 +50,34 @@ div.xscroll {
 
 /*App Images*/
 #shadowproxy {
-    background: url(../assets/app-images/shadows-proxy.jpeg); 
+    background: url(/assets/app-images/shadows-proxy.jpeg); 
 }
 #tinyfishing {
-    background: url(../assets/app-images/tinyfishing.jpeg); 
+    background: url(/assets/app-images/tinyfishing.jpeg); 
 }
 #retroarch {
-    background: url(../assets/app-images/retroarch.png); 
+    background: url(/assets/app-images/retroarch.png); 
 }
 #paperio2 {
-    background: url(../assets/app-images/paperio.jpeg); 
+    background: url(/assets/app-images/paperio.jpeg); 
 }
 #notepad {
-    background: url(../assets/app-images/notepad.png); 
+    background: url(/assets/app-images/notepad.png); 
 }
 #chan {
-    background: url(../assets/app-images/chan.jpg); 
+    background: url(/assets/app-images/chan.jpg); 
 }
 #bitplanes {
-    background: url(../assets/app-images/bitplanes.jpeg); 
+    background: url(/assets/app-images/bitplanes.jpeg); 
 }
 #basket-random {
-    background: url(../assets/app-images/basket-random.png); 
+    background: url(/assets/app-images/basket-random.png); 
 }
 #tffe {
-    background: url(../assets/app-images/2048.png); 
+    background: url(/assets/app-images/2048.png); 
 }
 #mandalin {
-    background: url(../assets/app-images/mandalin.jpeg); 
+    background: url(/assets/app-images/mandalin.jpeg); 
 }
 
 /*Theme Images*/
@@ -85,9 +85,9 @@ div.xscroll {
     background: purple;
 }
 #windows {
-    background: url(../assets/theme-images/windows.png); 
+    background: url(/assets/theme-images/windows.png); 
 }
 #monospace {
-    background: url(../assets/theme-images/mono.png);
+    background: url(/assets/theme-images/mono.png);
     background-color: black;
 }
